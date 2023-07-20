@@ -1,0 +1,236 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+
+}
+.background{
+    background-color: #3c6382;
+}
+.login-section{
+    border-radius: 12px;
+    text-align: center;
+   background-color:#c7ecee;
+    padding: 30px;
+}
+.login-section h3{
+    color: #7f8fa6;
+
+}
+.login-section h3 span{
+    color: #1dd1a1;
+    text-transform: capitalize;
+}
+.flex-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+.login-section h3{
+    font-size: 40px;
+    padding: 12px 0 40px 0;
+   
+}
+.infometion input{
+    padding: 18px 24px;
+    font-size: 20px;
+    display: block;
+    margin: 26px;
+    border: none;
+    border-radius: 5px;
+  
+    
+
+}
+.login-section button{
+    padding: 14px 52px;
+    font-size: large;
+    font-weight: 600;
+    background-color: #314057;
+    transition: all 0.4s ease-in-out;
+    border: none;
+    border-radius: 8px;
+    font-size: 22px;
+    color: white;
+    margin: 12px;
+}
+.login-section button:hover{
+    background-color: #636e72;
+    color: white;
+    
+}
+.cakbox input{
+  position: relative;
+
+}
+.cakbox h4{
+    position: absolute;
+   display: flex;
+   margin-top: -41px;
+   margin-left: 48px;
+
+    
+}
+
+/* loging end */
+
+
+
+.section-2{
+    background-color: #c7ecee;
+    padding: 100px 0;
+    height: 100vh;
+}
+.upwork{}
+.upwork h1{
+    text-align: center;
+    font-size: 50px;
+    margin: 25px;
+    font-weight: bolder;
+    color:#576574;
+}
+.upwork h1 span{
+    color: #1dd1a1;
+}
+
+.colam{
+    border-radius: 10px;
+    justify-content: space-between;
+    background-color: #c8d6e5;
+    padding: 14px 110px;
+    
+}
+.colam h4{
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 30px;
+}
+.colam span{ 
+    font-size: 38px;
+    font-weight: bold;
+}
+.colam h3{
+    padding: 14px 12px;
+    font-size: 38px;
+}
+
+.colam-2{
+    border-radius: 10px;
+    background-color: #55efc4;
+    justify-content: space-between;
+    padding: 60px;
+    padding: 14px 110px;
+}
+.colam-2 span{
+    font-size: 38px;
+    font-weight: bold;
+}
+.colam-2 h4{
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 30px;
+}
+.colam-2 h3{
+    padding: 14px 12px;
+    font-size: 38px;
+}
+.colam-3{
+    border-radius: 10px;
+    background-color: #74b9ff;
+    justify-content: space-between;
+    padding: 14px 110px;
+}
+.colam-3 h3{
+    padding: 14px 12px;
+    font-size: 38px;
+}
+.colam-3 span{
+    font-size: 38px;
+    font-weight: bold;
+}
+.colam-3 h4{
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 30px;
+}
+.flex-ammount{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 38px 0;
+}
+
+
+
+
+
+
+
+.withdraw-deposit{
+    display: flex;
+    justify-content: center;
+   
+    text-align: center;
+    
+}
+
+.m-deposit{
+    margin-left: 55px;
+    background-color: #3c6382;
+    display: inline-block;
+    padding: 14px 18px;
+    margin-top: 24px;
+    border-radius: 18px;
+
+   
+}
+.m-deposit input{
+    padding: 10px 22px;
+    border-radius: 10px;
+    
+}
+
+.m-deposit button{
+    padding: 12px 26px;
+    border-radius: 14px;
+    background-color: #74b9ff;
+    color: white;
+    transition: all 0.4s ease-in-out;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.m-deposit button:hover{
+    background-color: #2ecc71;
+}
+.m-withdraw {
+    margin-right: 100px;
+    background-color: #3c6382;
+    display: inline-block;
+    padding: 14px 18px;
+    margin-top: 24px;
+    border-radius: 18px;
+}
+.m-withdraw input{
+    padding: 12px 22px;
+    border-radius: 8px;
+}
+.m-withdraw button{
+    padding: 12px 26px;
+    border-radius: 14px;
+    background-color: #a29bfe;
+    color: white;
+    transition: all 0.4s ease-in-out;
+    text-transform: uppercase;
+    font-weight: bold;
+     
+}
+.m-withdraw button:hover{
+    background-color: #2ecc71;
+}
+.withdraw-deposit{
+   
+    
+}
